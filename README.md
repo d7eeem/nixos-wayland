@@ -18,3 +18,9 @@
 - [ ] sway(NC+bg+lock+idile)?
 - [ ] swww?
 - [ ] waybar
+
+
+# More Research
+- [ ] nix config
+- [ ] nix flakes
+- [ ] nix structure

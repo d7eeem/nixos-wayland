@@ -1,0 +1,5 @@
+# Setup
+
+- Packages
+- ZSH
+- Scripts
